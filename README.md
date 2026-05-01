@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amundlin
 - 👀 I’m interested in Software development and cloud devops
-- 🌱 I’m currently learning K8s, Oracle Cloud. 
+- 🌱 I’m currently learning K8s, AWS, AI coding agents, automated testing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
